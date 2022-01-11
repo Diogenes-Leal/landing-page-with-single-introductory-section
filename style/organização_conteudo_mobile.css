@@ -1,0 +1,11 @@
+header {
+    padding: 10px 40px;
+}
+
+main {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    padding: 35px 40px;
+    flex-wrap: wrap;
+}
